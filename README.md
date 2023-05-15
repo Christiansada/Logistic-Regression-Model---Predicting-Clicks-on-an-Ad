@@ -1,4 +1,4 @@
-# Logistic-Regression-Project---Predicting-Clicks-on-an-Ad
+# Predicting-Clicks-on-an-Ad
 This project involves creating a logistic regression model to predict whether an internet user will click on an advertisement on a company website. The dataset used in this project contains information on the daily time spent on the site, age, area income, daily internet usage, gender, country, and timestamp of each user who either clicked on an ad or closed the window.
 
 ### Libraries used
